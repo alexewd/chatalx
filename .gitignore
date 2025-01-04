@@ -1,1 +1,8 @@
+# Исключение системных и ненужных директорий
+AppData/
+Application Data/
+*.log
+*.tmp
+*.bak
+*.swp
 
