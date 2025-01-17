@@ -18,6 +18,10 @@ my_stopwords = ["не", "на", "только", "с", "к", "я", "о", "а", "�
 with open('f:/chatepc/chatalx/work/data/obriv.txt', 'r', encoding='utf-8') as file:
     text_data = file.readlines()
 
+# # Чтение файла
+# with open(path_to_text_file, 'r', encoding='utf-8') as file:
+#     text_data = file.readlines()
+
 # Объединение текста в один большой текст для анализа
 full_text = ' '.join(text_data)
 

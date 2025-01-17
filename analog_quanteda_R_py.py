@@ -36,7 +36,7 @@ top_terms = term_freq.head(20)
 print(top_terms)
 
 # Анализ ассоциаций терминов (например, для термина "Счастье")
-# Скорее находит где вместе слова в предложении !!!
+# Скорее находит где вместе слова в предложении встречаются !!!
 target_term = 'счастье'
 if target_term in vectorizer.get_feature_names_out():
     target_index = vectorizer.get_feature_names_out().tolist().index(target_term)
