@@ -6,6 +6,12 @@ Application Data/
 *.bak
 *.swp
 
+# Временные файлы Jupyter
+.ipynb_checkpoints/
+
+# Системные файлы Windows
+Thumbs.db
+desktop.ini
 
 work/analog-signal-448117-n9-897455b42399.json
 teract_ipynb/mydasch-197308-ce756751640a.json
