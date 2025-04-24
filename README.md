@@ -45,3 +45,9 @@ Questions or Issues
 If you have any questions or run into issues, feel free to open an issue in the repository or reach out to the maintainers.
 
 Thank you for contributing!
+Анализ текста романа Обломов на R и Python.
+- : Скрипт на Python с использованием ufal.udpipe.
+- : Скрипт на R с использованием quanteda и udpipe.
+- Python: ufal.udpipe, pandas, nltk, matplotlib, wordcloud.
+- R: quanteda, udpipe, ggplot2 и др.
+- Модель: russian-syntagrus-ud-2.5-191206.udpipe.
