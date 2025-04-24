@@ -19,3 +19,6 @@ teract_ipynb/mydasch-197308-ce756751640a.json
 teract_ipynb/
 dist/
 build/
+1.csv average_sentence_length.csv avito_links.csv avito_texts.csv avito_texts_ibm.csv avito_texts_ibm2.csv avito_titles.csv bigram_freq.csv bigram_frequency.csv bigrams.csv burials_preview.csv chapter_stats.csv digits_stats.csv freelancer.csv ip_ranges.csv latin_words.csv letter_frequency.csv letters_full.csv letters_processed.csv letters_with_texts.csv mb_2025_01.csv number_stats.csv output_file.csv output_file_i_k.csv output_file_x_i.csv pos_distribution.csv proper_nouns.csv punctuation_stats.csv raspisanije.csv raspisanije2.csv roman_numerals.csv rus_nekropol_2014.csv save_price.csv sentence_length.csv subordinate_sentences.csv table.csv tfidf_analysis.csv tfidf_results.csv trigram_freq.csv trigram_frequency.csv trigrams.csv unique_names_spacy.csv word_freq.csv word_frequency.csv
+bigram_freq_plot.png latin_words_plot.png numbers_plot.png pos_distribution_plot.png proper_nouns_plot.png punctuation_plot.png test_page_1.png trigram_freq_plot.png word_freq_plot.png wordcloud.png
+russian-syntagrus-ud-2.5-191206.udpipe
